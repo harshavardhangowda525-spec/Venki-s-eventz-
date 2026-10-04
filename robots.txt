@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://venkiseventz.com/sitemap.xml
+Sitemap: https://harshavardhangowda525-spec.github.io/Venki-s-eventz-/sitemap.xml

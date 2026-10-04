@@ -39,7 +39,7 @@ If you'd rather get enquiries by email, create a free form at [Formspree](https:
 
 ## Before going live
 
-- Replace `https://venkiseventz.com/` in `index.html`, `robots.txt` and `sitemap.xml` with the real domain.
+- The site currently points to its GitHub Pages address (`https://harshavardhangowda525-spec.github.io/Venki-s-eventz-/`). When you move to a custom domain, replace that URL in `index.html`, `robots.txt` and `sitemap.xml`.
 - Claim or verify the business on **Google Business Profile**. This matters most for "wedding planners near me" searches.
 - Replace placeholder photos and reviews.
 
